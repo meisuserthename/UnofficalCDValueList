@@ -16,7 +16,7 @@ function App() {
     <div className="app">
       <header className="header">
         <h1>Custom Duels Sword Values (Most Recent)</h1>
-        <p className="subtitle">Check the Info tab for details</p>
+        <p className="subtitle">(CHECK THE INFO TAB)</p>
       </header>
 
       <div className="filter-buttons">
